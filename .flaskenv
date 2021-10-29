@@ -1,0 +1,2 @@
+FLASK_APP=cbcplanner
+FLASK_ENV=development
